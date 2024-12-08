@@ -1,0 +1,15 @@
+# Ignore large model files
+*.h5
+*.keras
+
+# Ignore virtual environment folders
+new_venv2/
+venv/
+
+# Ignore logs and data
+Logs/
+MP_Data/
+
+# Ignore temporary files
+*.pyc
+__pycache__/
